@@ -1,0 +1,43 @@
+﻿  Title.cpp
+  time.cpp
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\time.cpp(39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  StartGame.cpp
+  sound.cpp
+  Scene.cpp
+  ReverceCar.cpp
+  Result.cpp
+  Ranking.cpp
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(102): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(108): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(110): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(111): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\ranking.cpp(249): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Progress.cpp
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\progress.cpp(74): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\progress.cpp(75): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  PressEnter.cpp
+  Polygon.cpp
+  player.cpp
+  Pause.cpp
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\pause.cpp(70): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  number.cpp
+c:\users\大輝\desktop\課題ファイル\2年\dx21\トリクロ revercehighway\number.cpp(19): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  main.cpp
+  item.cpp
+  input.cpp
+  Hit.cpp
+  Heal.cpp
+  Game.cpp
+  コードを生成中...
+  コンパイル中...
+  FinishGame.cpp
+  Explosion.cpp
+  Explain.cpp
+  Effect.cpp
+  Debug.cpp
+  danger.cpp
+  background.cpp
+  コードを生成中...
+  Project.vcxproj -> C:\Users\大輝\Desktop\課題ファイル\2年\DX21\トリクロ ReverceHighway\Debug\Project.exe
+  Project.vcxproj -> C:\Users\大輝\Desktop\課題ファイル\2年\DX21\トリクロ ReverceHighway\Debug\Project.pdb (Full PDB)
